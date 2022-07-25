@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url(../fontes/idroid.otf) format('opentype');
+    src: url(fontes/idroid.otf) format('opentype');
     font-weight: normal;
 }
 
@@ -27,7 +27,7 @@
 }
 
 a.zelda::after {
-    content: '\00A0' url(../imagens/linkzin.png);
+    content: '\00A0' url(imagens/linkzin.png);
 }
 
 body {
