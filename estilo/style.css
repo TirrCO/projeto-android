@@ -22,12 +22,12 @@
 }
 
 * {
+    box-sizing: border-box;
     margin: 0px;
-    padding: 0px;
 }
 
 a.zelda::after {
-    content: '\00A0' url(imagens/linkzin.png);
+    content: '\00A0' url('../imagens/linkzin.png');
 }
 
 body {
